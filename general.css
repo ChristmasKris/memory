@@ -1,0 +1,65 @@
+@font-face {
+   font-family: 'Roboto';
+   src: url('./media/fonts/Roboto-Light.ttf');
+   font-weight: 300;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./media/fonts/Roboto-Regular.ttf');
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./media/fonts/Roboto-Medium.ttf');
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./media/fonts/Roboto-Bold.ttf');
+   font-weight: 700;
+   font-style: normal;
+}
+
+:root {
+	--mainColor: #2a65e4;
+	--mainColorDark: #1952cc;
+	--placeholder: #737373;
+	--black: #212121;
+	--grey: #373737;
+	--grey-dark: #2c2c2c;
+	--divider: #000000;
+	--shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+	--white: #ffffff;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0.02em;
+}
+
+html, body {
+	margin: 0;
+	font-size: 0;
+	background-color: #000000;
+	height: 100%;
+}
+
+button {
+	border: none;
+	padding: 0;
+	outline: none;
+	cursor: pointer;
+	color: #000000;
+}
+
+input {
+	border: none;
+	padding: 0;
+	outline: none;
+}
