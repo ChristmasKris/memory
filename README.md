@@ -1,4 +1,4 @@
-# Memory Game – Portfolio Project
+# Memory Game
 
 Welcome! This post highlights my Memory Game project, a web-based interactive game designed to showcase my front-end development skills, attention to user experience, and ability to build engaging browser-based applications.
 
