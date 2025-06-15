@@ -1,5 +1,7 @@
 # Memory Game
 
+Live demo: https://www.kristianbenko.com/Memory
+
 Welcome! This post highlights my Memory Game project, a web-based interactive game designed to showcase my front-end development skills, attention to user experience, and ability to build engaging browser-based applications.
 
 ![Screenshot of memory game in progress](./READMEImages/1.jpg "Screenshot of memory game in progress")
